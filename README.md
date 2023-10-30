@@ -28,7 +28,7 @@ The project is built using the following technologies and libraries:
 - MySQL
 - Lombok
 - Springdoc OpenAPI for API documentation
-- JavaMail for email functionality
+- JavaMail for email functionalitys
 
 ## Project Structure
 
